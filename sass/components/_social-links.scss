@@ -1,4 +1,4 @@
-social-links{
+.social-links{
     display: flex;
     gap: 10px;
     align-items: center;
@@ -6,7 +6,7 @@ social-links{
     flex-wrap: wrap;
     margin: 30px 32px;    
  }
- .social-links--footer{
+ .social-links--footer{ 
     justify-content: start;
     margin: 20px 0 0 0;    
  }
